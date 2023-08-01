@@ -1,0 +1,19 @@
+.section {
+  background-image: url('../public/banner3.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  height: calc(100vh - 64px); /* Adjust 64px to match the height of your navbar */
+}
+
+.heading{
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  color: #043b72;
+}
+
+.sub_heading{
+  display: block;
+  /* font-weight: normal; */
+  color: #f58220;
+}
