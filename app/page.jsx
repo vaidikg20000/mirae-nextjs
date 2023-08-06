@@ -1,12 +1,12 @@
 // import Image from 'next/image'
 import React from 'react';
-import Navbar from './Navbar';
+// import ';
 import Section from "./Section";
 
 export default function Home() {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <Section />
     </div>
   )
